@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003179526657",
+    "project_id": "tickitz-movie",
+    "storage_bucket": "tickitz-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003179526657:android:0efbdbe3a71757b1134e00",
+        "android_client_info": {
+          "package_name": "com.tickitz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003179526657-bmven04j8spq79ot57ba5edfco52hrp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMOmsxHqtZ5y76_jRcDw6uchNKlYKJn1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003179526657-bmven04j8spq79ot57ba5edfco52hrp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
